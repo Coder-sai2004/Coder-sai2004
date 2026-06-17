@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-ramsai.netlify.app/](https://portfolio-ramsai.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://ramsai-port.netlify.app/](https://ramsai-port.netlify.app/)
 
 - 📫 How to reach me **dcmeramsai003@gmail.com**
 
