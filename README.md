@@ -33,7 +33,7 @@ I enjoy developing **full-stack web applications**, integrating **AI APIs**, and
 
 * 💻 Solved **1000+ DSA Problems** across LeetCode, CodeChef & GeeksforGeeks
 * 🚀 Passionate about **Software Engineering**, **Backend Development**, and **AI-powered Applications**
-* 🌱 Currently learning **React.js**, **Advanced JavaScript**, and modern backend development
+* 🌱 Currently learning **React.js**, **JavaScript**, and modern backend development
 * 🎯 Seeking **Software Development Engineer (SDE)** opportunities
 
 ---
@@ -89,7 +89,7 @@ I enjoy developing **full-stack web applications**, integrating **AI APIs**, and
 ### Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" alt="Tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools"/>
 </p>
 
 ---
@@ -104,9 +104,9 @@ I enjoy developing **full-stack web applications**, integrating **AI APIs**, and
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Coder-sai2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+<!-- <img height="170" src="https://github-readme-stats.vercel.app/api?username=Coder-sai2004&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coder-sai2004&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coder-sai2004&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/> -->
 
 </p>
 
@@ -124,15 +124,13 @@ I enjoy developing **full-stack web applications**, integrating **AI APIs**, and
 
 <!-- ===================================================== -->
 
-# 🏆 GitHub Trophies
+<!-- # 🏆 GitHub Trophies
 
-<p align="center">
+ <p align="center"> 
 
-<img src="https://github-profile-trophy.vercel.app/?username=Coder-sai2004&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+ <img src="https://github-profile-trophy.vercel.app/?username=Coder-sai2004&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies"/>
 
-</p>
-
----
+ </p> --> 
 
 <!-- ===================================================== -->
 
